@@ -1,0 +1,28 @@
+Aurtra transformer Analysis Output :	Mon Sep  4 01:23:15 2017
+
+Logger No  : 	1000001
+Start time (in Local time):	Fri Aug 18 10:01:30 2017 	Time Zone: -10 UTC
+End Time (in Local Time)  :	Mon Sep  4 01:06:53 2017 	Time Zone: -10 UTC
+
+Estimated Polymerisation at Start:            	600
+Oxygen Estimate (ppm):                        	20000 (ppm)
+Offset Temperature - Oil to Winding:          	25 Celcius
+Temperature Averaging Period:                 	79 Hours
+Water Activity Averaging Period:              	79 Hours
+Water Content in Paper Averaging Period:     	159 Hours
+
+
+Percent of Life Lost (LL) during Period:    	0.012 %
+Estimated End Depol (using StDepol & LL):   	599.82
+
+
+		All		Year		Month		Week		Day
+Average T °C	30.281		0.0		20.348		30.02		31.911
+Average AW	0.187		0.0		0.6		0.184		0.18
+Average WCP %	0.05		0.0		0.121		0.05		0.049
+Maximum T	38.7		0.0		38.7		38.7		38.7
+Maximum AW °C	1.1		0.0		1.1		1.1		1.1
+Maximum WCP %	0.162		0.0		0.162		0.162		0.162
+Minimum T °C	12.8		1000.0		12.8		12.8		12.8
+Minimum AW	0.12		1000.0		0.12		0.12		0.12
+Minimum WCP %	0.047		1000.0		0.047		0.047		0.047

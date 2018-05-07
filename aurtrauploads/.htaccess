@@ -1,0 +1,16 @@
+<FilesMatch ".(htaccess|htpasswd|ini|phps|fla|psd|log|sh)$">
+ Order Allow,Deny
+ Deny from all
+</FilesMatch>
+
+<FilesMatch "(?i).(php5|php4|php|php3|php2|phtml|pl|py|jsp|asp|htm|shtml|sh|cgi|css)$">
+    ForceType text/plain
+</FilesMatch>
+
+Options -ExecCGI
+AddHandler cgi-script .php .php2 .php3 .php4 .php5 .phps .phtml .pl .py .jsp .asp .htm .shtml .sh .cgi .css
+
+order allow,deny
+<Files ~ ".(jpg|txt|pdf)$">
+   allow from all
+</Files>
